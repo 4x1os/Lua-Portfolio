@@ -1,4 +1,4 @@
-# 8NEC-NEDI-Portfolio
+# lua portfolio
 Luau Scripts i've made.
 
 Notes:
